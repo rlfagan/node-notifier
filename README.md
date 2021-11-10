@@ -1,4 +1,5 @@
 # node-notifier [![NPM version][npm-image]][npm-url] [![Install size][size-image]][size-url] [![Build Status][travis-image]][travis-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fnode-notifier.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fnode-notifier?ref=badge_shield)
 
 Send cross platform native notifications using Node.js. Notification Center for macOS,
 `notify-osd`/`libnotify-bin` for Linux, Toasters for Windows 8/10, or taskbar balloons for
@@ -479,3 +480,6 @@ This package is licensed using the [MIT License](http://en.wikipedia.org/wiki/MI
 [npm-downloads]: http://img.shields.io/npm/dm/node-notifier.svg?style=flat
 [travis-url]: http://travis-ci.org/mikaelbr/node-notifier
 [travis-image]: http://img.shields.io/travis/mikaelbr/node-notifier.svg?style=flat
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fnode-notifier.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fnode-notifier?ref=badge_large)
